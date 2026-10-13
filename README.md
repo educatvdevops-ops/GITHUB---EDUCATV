@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/educatvdevops-ops/.github/main/profile/logo-educatv.png" alt="EducaTV Campinas" width="120" />
+<img src="https://github.com/educatvdevops-ops/GITHUB---EDUCATV/blob/main/Avatar%20de%20Coruja%20Tech%20EducaTV.png" alt="EducaTV Campina" width="120" />
 
-# EducaTV DevOps
 
 **Equipe de tecnologia e desenvolvimento da EducaTV Campinas**
 
